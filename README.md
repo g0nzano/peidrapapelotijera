@@ -1,4 +1,4 @@
-# peidrapapelotijera
+# peidra papel o tijera
 
 
 Es un popular juego para dos jugadores. Cualquier jugador puede ejecutar una jugada con sus manos con estas opciones que tenemos disponible  a continuación:
